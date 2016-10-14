@@ -3,7 +3,8 @@ Simple tik-tak-toe game for two players ( which had only one PC ). Writen in C++
 
 ## Installing
 1) Download and extract archive.
-2) switch to dir with extracted files.
+
+2) Switch to dir with extracted files.
 ```
 cd tik-tak-toe/
 ```
