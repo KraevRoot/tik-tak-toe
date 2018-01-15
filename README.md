@@ -1,5 +1,5 @@
 # Tik-Tak-Toe
-Simple tik-tak-toe game for two players ( which had only one PC ). Writen in C++ language.
+Simple tik-tak-toe game for two people, only hotseat. Writen in C++ language.
 
 ## Installing
 1) Download and extract archive.
